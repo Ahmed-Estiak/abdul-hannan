@@ -5,7 +5,7 @@ title: 'High-pressure apparatus for magnetic neutron diffraction beyond 3 GPa at
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - T Osakabe, , , , , 
+  - T Osakabe
   - M Kohgi
   - D Kawana
   - A Hannan
@@ -18,7 +18,7 @@ authors:
   #- 'Second author'
 
 date: '2004-05-01T00:00:00Z'
-doi: 'https://d1wqtxts1xzle7.cloudfront.net/46811725/j.jmmm.2003.12.87320160626-24263-tsy5z7-libre.pdf?1466972422=&response-content-disposition=inline%3B+filename%3DHigh_pressure_apparatus_for_magnetic_neu.pdf&Expires=1673316477&Signature=a-XbjOg6epiWz7hyHOciV7Azx0sKG2ishR8A25NZsWuCmflx~EwFYEYJQzlKwG6cl1U4bKQyl7An5W7Q3ijbdSxeIX65WACWJ4DnJ7dcW08k1zoXCxbEnYExCCJ2RoC53jo4-vxI4o5c2a0fhB6Asdnz1-oJszVWNJJbZla8HlvhtbmnN2L7iub3UDdM95hoQYinmOroDITHqANtZN~HjV1lzZ9qTZSg0cgZf5e80aeX0MLuUHiYQngoX-IE3CDqUFaXoY8BWTSvDx0LRuS5zxiotlMhgeTyMxXLVKaOmxP0BxsGTbApx4Dd2GAfvrJOxqNFlXCA7xGyN~ZsxsXOHQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA'
+#doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -53,7 +53,7 @@ featured: true
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
-url_source: '[https://doi.org/10.1016/j.newast.2020.101547](https://d1wqtxts1xzle7.cloudfront.net/46811725/j.jmmm.2003.12.87320160626-24263-tsy5z7-libre.pdf?1466972422=&response-content-disposition=inline%3B+filename%3DHigh_pressure_apparatus_for_magnetic_neu.pdf&Expires=1673316477&Signature=a-XbjOg6epiWz7hyHOciV7Azx0sKG2ishR8A25NZsWuCmflx~EwFYEYJQzlKwG6cl1U4bKQyl7An5W7Q3ijbdSxeIX65WACWJ4DnJ7dcW08k1zoXCxbEnYExCCJ2RoC53jo4-vxI4o5c2a0fhB6Asdnz1-oJszVWNJJbZla8HlvhtbmnN2L7iub3UDdM95hoQYinmOroDITHqANtZN~HjV1lzZ9qTZSg0cgZf5e80aeX0MLuUHiYQngoX-IE3CDqUFaXoY8BWTSvDx0LRuS5zxiotlMhgeTyMxXLVKaOmxP0BxsGTbApx4Dd2GAfvrJOxqNFlXCA7xGyN~ZsxsXOHQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)'
+url_source: 'https://d1wqtxts1xzle7.cloudfront.net/46811725/j.jmmm.2003.12.87320160626-24263-tsy5z7-libre.pdf?1466972422=&response-content-disposition=inline%3B+filename%3DHigh_pressure_apparatus_for_magnetic_neu.pdf&Expires=1673316477&Signature=a-XbjOg6epiWz7hyHOciV7Azx0sKG2ishR8A25NZsWuCmflx~EwFYEYJQzlKwG6cl1U4bKQyl7An5W7Q3ijbdSxeIX65WACWJ4DnJ7dcW08k1zoXCxbEnYExCCJ2RoC53jo4-vxI4o5c2a0fhB6Asdnz1-oJszVWNJJbZla8HlvhtbmnN2L7iub3UDdM95hoQYinmOroDITHqANtZN~HjV1lzZ9qTZSg0cgZf5e80aeX0MLuUHiYQngoX-IE3CDqUFaXoY8BWTSvDx0LRuS5zxiotlMhgeTyMxXLVKaOmxP0BxsGTbApx4Dd2GAfvrJOxqNFlXCA7xGyN~ZsxsXOHQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA'
 #url_video: ''
 
 # Featured image
