@@ -140,10 +140,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Physics
-          tag: Physics
-        - name: Other
-          tag: Other
+        - name: Book
+          tag: Book
+        - name: Research
+          tag: Research
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
