@@ -12,7 +12,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text: Hello
-  - block: Current Position
+  - block: position
     content:
       title: Current Position
       # Date format for experience
