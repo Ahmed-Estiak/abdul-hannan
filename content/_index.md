@@ -81,45 +81,43 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Master in Science (Physics)
-          company: Shahjalal University of Science and Technology, Sylhet
-          company_url: 'https://www.sust.edu/'
+        - title: D. Sc 
+          company: Tokyo Metropolitan University (TMU)
+          company_url: 'https://www.tmu.ac.jp/english/index.html'
           company_logo: org-gc
-          location: Bangladesh
-          date_start: '2019-04-04'
-          date_end: '2022-05-05'
+          location: Japan
+          date_start: '1999-04-04'
+          date_end: '2000-05-05'
           description: |2-
               Major Achievements:
 
-              * CGPA 3.71 on a scale of 4.00 (so far)
-              * Highest mark in my MSc thesis work
-              * University scholarships for my result
-        - title: International School for Young Astronomers
-          company: International Astronomical Union (Summer School)
-          company_url: 'https://www.sust.edu/'
+              * Example
+              * Example
+              * Example
+        - title: M. Sc (Physics)  
+          company: Jahangirnagar University
+          company_url: 'https://juniv.edu/'
           company_logo: org-gc
-          location: Yunnan Observatories, Kunming, China
-          date_start: '2019-10-10'
-          date_end: '2019-11-11'
+          location: Bangladesh
+          date_start: '1991-10-10'
+          date_end: '1992-11-11'
           description: |2-
               Description:
 
-              * 3-week long
-              * Used 1-m and 60-cm optical telesocope for an astronomy group project 
-              * A total of 130 hours of lectures and training covered a wide range of astronomy topics
-        - title: Bachelor in Science (Physics)
-          company: Shahjalal University of Science and Technology, Sylhet
-          company_url: 'https://www.sust.edu/'
+              * Example
+              * Example
+        - title: B. Sc (Hons) (Physics)
+          company: Jahangirnagar University
+          company_url: 'https://juniv.edu/'
           company_logo: org-x
           location: Bangladesh
-          date_start: '2013-12-11'
-          date_end: '2019-11-11'
+          date_start: '1986-12-11'
+          date_end: '1991-01-01'
           description: |2-
               Major Achievements:
 
-              * CGPA 3.66 on a scale of 4.00 (so far)
-              * Among the top 5 percent of the students
-              * University scholarships for my result
+              * Example
+              * Example
 
 
     design:
@@ -142,8 +140,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Astronomy
-          tag: Astronomy
+        - name: Physics
+          tag: Physics
         - name: Other
           tag: Other
     design:
