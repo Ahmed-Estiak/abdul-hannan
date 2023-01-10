@@ -1,38 +1,36 @@
 ---
 title: Dr. Abdul Hannan
-role: Professor, Department of Physics, Shahjalal University of Science and
-  Technology, Sylhet
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Professor, Department of Physics
+bio: My research interests include Solid State Physics, Condensed Matter Physics.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Solid State Physics
+  - Condensed Matter Physics
+  #- Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: facebook
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://www.facebook.com/abdul.hannan.50596013 
+    label: Follow me on Facebook
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  #- icon: github
+    #icon_pack: fab
+    #link: https://github.com/gcushen
+  #- icon: linkedin
+    #icon_pack: fab
+    #link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shahjalal University of Science and Technology, Sylhet
+    url: https://www.sust.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -47,11 +45,11 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Hannan
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: Abdul
+email: "ahannan-phy@sust.edu"
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Abdul Hannan is a professor of Department of Physics, Shahjalal University of Science and Technology, Sylhet. His research interests include Solid State Physics and Cndensed Matter Physics. 
 {style="text-align: justify;"}
