@@ -15,9 +15,9 @@ sections:
       text: Welcome! I am Dr. Abdul Hannan. I am a Professor of Department of Physics, Shahjalal University of Science and Technology, Sylhet. My research interests are Solid State Physics, Condensed Matter Physics, High Pressure Physics and X-ray Diffraction. 
 
   - block: experience
-    id: Current Position
+    id: 
     content:
-      title: Fellowship
+      title: Current Position
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
