@@ -36,7 +36,7 @@ sections:
           date_end: ''
           description: |2-
               Major Achievements:
-              * Best Teacher Award, 2021
+              * Sultana N. Nahar Best Teacher of the Year 2019, 2019
               * Example
               * Example
 
