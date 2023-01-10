@@ -30,7 +30,7 @@ sections:
         - title: Professor
           company: Shahjalal University of Science and Technology, Sylhet
           company_url: 'https://www.sust.edu/'
-          company_logo: org-gc
+          company_logo: logo
           location: Bangladesh
           date_start: '1995-01-01'
           date_end: ''
