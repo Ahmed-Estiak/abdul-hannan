@@ -12,10 +12,10 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: Welcome! I am Ahmed Estiak, a young researcher. My research area is in physics and astrophysics. I have done my undergraduate in Physics from Shahjalal University of Science and Technology, Sylhet.
+      text: Welcome! I am Dr. Abdul Hannan. I am a Professor of Department of Physics, Shahjalal University of Science and Technology, Sylhet. My research interests are Solid State Physics, Condensed Matter Physics, High Pressure Physics and X-ray Diffraction. 
 
   - block: experience
-    id: Fellowship
+    id: Current Position
     content:
       title: Fellowship
       # Date format for experience
@@ -27,17 +27,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: NST Research Fellow
-          company: National Science and Technology Ministry, Bangladesh
-          company_url: 'http://103.69.149.45:9207/en/services/most/nst-fellowship'
+        - title: Professor
+          company: Shahjalal University of Science and Technology, Sylhet
+          company_url: 'https://www.sust.edu/'
           company_logo: org-gc
           location: Bangladesh
-          date_start: '2020-01-01'
-          date_end: '2020-12-01'
+          date_start: '1995-01-01'
+          date_end: ''
           description: |2-
-
-              * Received this fellowship for the research of my MSc thesis.
-
+              Major Achievements:
+              * Best Teacher Award, 2021
+              * Example
+              * Example
 
 
     design:
