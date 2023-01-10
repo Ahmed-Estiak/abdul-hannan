@@ -12,6 +12,59 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text: Hello
+  - block: Current Position
+    content:
+      title: Current Position
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Professor
+          company: Shahjalal University of Science and Technology, Sylhet
+          company_url: 'https://www.sust.edu/'
+          company_logo: org-gc
+          location: Bangladesh
+          date_start: '1995-01-01'
+          date_end: ''
+          description: |2-
+              Major AChievements:
+
+              * Best Teacher Award, 2021
+              * Example
+              * Example
+
+    design:
+      columns: '2' 
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation      
   - block: features
     content:
       title: Skills
