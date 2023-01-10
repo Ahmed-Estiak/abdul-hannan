@@ -2,7 +2,7 @@
 title: CONCEPTS OF SOLID STATE PHYSICS MADE EASY
 summary: This textbook mainly focuses on structural, thermal, electronic, dielectric, magnetic and superconducting behaviors of materials in their solid states.
 tags:
-  - Solis State Physics
+  - Book
 date: '2022-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
