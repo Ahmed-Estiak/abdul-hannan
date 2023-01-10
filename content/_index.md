@@ -84,7 +84,7 @@ sections:
         - title: D. Sc 
           company: Tokyo Metropolitan University (TMU)
           company_url: 'https://www.tmu.ac.jp/english/index.html'
-          company_logo: org-gc
+          company_logo: download
           location: Japan
           date_start: '1999-04-04'
           date_end: '2000-05-05'
@@ -97,7 +97,7 @@ sections:
         - title: M. Sc (Physics)  
           company: Jahangirnagar University
           company_url: 'https://juniv.edu/'
-          company_logo: org-gc
+          company_logo: ju
           location: Bangladesh
           date_start: '1991-10-10'
           date_end: '1992-11-11'
@@ -109,7 +109,7 @@ sections:
         - title: B. Sc (Hons) (Physics)
           company: Jahangirnagar University
           company_url: 'https://juniv.edu/'
-          company_logo: org-x
+          company_logo: ju
           location: Bangladesh
           date_start: '1986-12-11'
           date_end: '1991-01-01'
